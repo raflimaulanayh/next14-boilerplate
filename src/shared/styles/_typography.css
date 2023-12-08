@@ -1,0 +1,10 @@
+/* @font-face {
+  font-family: Rubik;
+  src: url('../fonts/rubik.otf');
+  font-weight: 400;
+} */
+
+html,
+body {
+  font-family: var(--font-rubik);
+}

@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font custom */
+@import '_typography.css';
+
+/* vendor */
+@import './vendors/slick/slick';
+@import './vendors/slick/slick-theme';
